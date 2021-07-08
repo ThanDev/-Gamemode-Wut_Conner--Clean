@@ -1,0 +1,79 @@
+{
+	"user": "Wutichai",
+	"repo": "GM",
+	"entry": "gamemodes/GM.pwn",
+	"output": "gamemodes/GM.amx",
+	"dependencies": [
+		"sampctl/samp-stdlib",
+		"Zeex/samp-plugin-crashdetect",
+		"pawn-lang/YSI-Includes",
+		"samp-incognito/samp-streamer-plugin",
+		"Awsomedude/easyDialog",
+		"pBlueG/SA-MP-MySQL",
+		"maddinat0r/sscanf",
+		"karimcambridge/samp-foreach",
+		"katursis/Pawn.CMD",
+		"katursis/Pawn.RakNet",
+		"Southclaws/samp-whirlpool",
+		"NexiusTailer/Nex-AC",
+		"aktah/cec",
+		"ziggi/FCNPC"
+	],
+	"local": true,
+	"runtime": {
+		"version": "0.3.7",
+		"mode": "server",
+		"filterscripts": [
+			"android-check"
+		],
+		"gamemodes": [
+			"GM"
+		],
+		"plugins": [
+			"sampvoice"
+		],
+		"rcon_password": "Administrator",
+		"port": 7777,
+		"hostname": "[SA-MP] GTA ROLEPLAY PC/ANDROID",
+		"maxplayers": 100,
+		"language": "Thailand",
+		"mapname": "GTA SAN",
+		"weburl": "www.samp-th.net",
+		"gamemodetext": "TH",
+		"announce": true,
+		"lanmode": false,
+		"query": true,
+		"rcon": false,
+		"logqueries": false,
+		"sleep": 5,
+		"maxnpc": 10,
+		"stream_rate": 1000,
+		"stream_distance": 200,
+		"onfoot_rate": 30,
+		"incar_rate": 30,
+		"weapon_rate": 30,
+		"chatlogging": true,
+		"timestamp": true,
+		"messageholelimit": 3000,
+		"messageslimit": 500,
+		"ackslimit": 3000,
+		"playertimeout": 10000,
+		"minconnectiontime": 0,
+		"lagcompmode": 1,
+		"connseedtime": 300000,
+		"db_logging": false,
+		"db_log_queries": false,
+		"conncookies": true,
+		"cookielogging": false,
+		"output": true
+	},
+	"builds": [
+		{
+			"name": "build",
+			"includes": [
+				"includeEx"
+			],
+			"compiler": {}
+		}
+	]
+}

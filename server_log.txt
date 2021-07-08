@@ -1,0 +1,338 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:20:03] 
+[20:20:03] Server Plugins
+[20:20:03] --------------
+[20:20:03]  Loading plugin: sampvoice
+[20:20:03]   Failed.
+[20:20:03]  Loading plugin: crashdetect
+[20:20:04]   CrashDetect plugin 4.20
+[20:20:04]   Loaded.
+[20:20:04]  Loading plugin: streamer
+[20:20:04] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[20:20:04]   Loaded.
+[20:20:04]  Loading plugin: mysql
+[20:20:04]  >> plugin.mysql: R41-4 successfully loaded.
+[20:20:04]   Loaded.
+[20:20:04]  Loading plugin: pawncmd
+[20:20:04] [Pawn.CMD] plugin v3.3.3 by urShadow loaded
+[20:20:04]   Loaded.
+[20:20:04]  Loading plugin: pawnraknet
+[20:20:04] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.4.1 | 2016 - 2020
+    |--------------------------------
+    | Author and maintainer: urShadow
+
+
+    | Compiled: Jun 18 2020 at 14:19:11
+    |--------------------------------------------------------------
+    | Forum thread: https://forum.sa-mp.com/showthread.php?t=640306
+    |--------------------------------------------------------------
+    | Repository: https://github.com/urShadow/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/urShadow/Pawn.RakNet/wiki
+
+[20:20:04]   Loaded.
+[20:20:04]  Loading plugin: cec
+[20:20:04]     < cec 1.0 | Copyright 2020 > 
+[20:20:04]      Author: Ak-kawit "leaks666" Tahae
+[20:20:04]    Repository: https://github.com/aktah/cec
+[20:20:04]  
+[20:20:04]       --------------------------------
+[20:20:04]   Loaded.
+[20:20:04]  Loaded 6 plugins.
+
+[20:20:04] 
+[20:20:04] Filterscripts
+[20:20:04] ---------------
+[20:20:04]   Loading filterscript 'android-check.amx'...
+[20:20:04] Android check has been successfully loaded.
+[20:20:04]   Loaded 1 filterscripts.
+
+[20:20:04] [debug] Run time error 19: "File or function is not found"
+[20:20:04] [debug]  WP_Hash
+[20:20:04] [debug] Run time error 19: "File or function is not found"
+[20:20:04] [debug]  WP_Hash
+[20:20:04] Script[gamemodes/GM.amx]: Run time error 19: "File or function is not found"
+[20:20:04] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:23:20] 
+[20:23:20] Server Plugins
+[20:23:20] --------------
+[20:23:20]  Loading plugin: sampvoice
+[20:23:20]   Failed.
+[20:23:20]  Loading plugin: crashdetect
+[20:23:20]   CrashDetect plugin 4.20
+[20:23:20]   Loaded.
+[20:23:20]  Loading plugin: streamer
+[20:23:20] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[20:23:20]   Loaded.
+[20:23:20]  Loading plugin: mysql
+[20:23:21]  >> plugin.mysql: R41-4 successfully loaded.
+[20:23:21]   Loaded.
+[20:23:21]  Loading plugin: pawncmd
+[20:23:21] [Pawn.CMD] plugin v3.3.3 by urShadow loaded
+[20:23:21]   Loaded.
+[20:23:21]  Loading plugin: pawnraknet
+[20:23:21] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.4.1 | 2016 - 2020
+    |--------------------------------
+    | Author and maintainer: urShadow
+
+
+    | Compiled: Jun 18 2020 at 14:19:11
+    |--------------------------------------------------------------
+    | Forum thread: https://forum.sa-mp.com/showthread.php?t=640306
+    |--------------------------------------------------------------
+    | Repository: https://github.com/urShadow/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/urShadow/Pawn.RakNet/wiki
+
+[20:23:21]   Loaded.
+[20:23:21]  Loading plugin: cec
+[20:23:21]     < cec 1.0 | Copyright 2020 > 
+[20:23:21]      Author: Ak-kawit "leaks666" Tahae
+[20:23:21]    Repository: https://github.com/aktah/cec
+[20:23:21]  
+[20:23:21]       --------------------------------
+[20:23:21]   Loaded.
+[20:23:21]  Loading plugin: Whirlpool
+[20:23:21]  
+[20:23:21]  ==================
+[20:23:21]  
+[20:23:21]   Whirlpool loaded
+[20:23:21]  
+[20:23:21]  ==================
+[20:23:21]  
+[20:23:21]   Loaded.
+[20:23:21]  Loaded 7 plugins.
+
+[20:23:21] 
+[20:23:21] Filterscripts
+[20:23:21] ---------------
+[20:23:21]   Loading filterscript 'android-check.amx'...
+[20:23:21] AMX (43224384) loaded
+[20:23:21] Android check has been successfully loaded.
+[20:23:21]   Loaded 1 filterscripts.
+
+[20:23:21] AMX (43067048) loaded
+[20:23:21] MySQL connection is successful.
+[20:23:21] Gamemode-Clean BY AlexDev
+[20:23:21] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:25:34] 
+[21:25:34] Server Plugins
+[21:25:34] --------------
+[21:25:34]  Loading plugin: sampvoice
+[21:25:34]   Failed.
+[21:25:34]  Loading plugin: crashdetect
+[21:25:34]   CrashDetect plugin 4.20
+[21:25:34]   Loaded.
+[21:25:34]  Loading plugin: streamer
+[21:25:34] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:25:34]   Loaded.
+[21:25:34]  Loading plugin: mysql
+[21:25:34]  >> plugin.mysql: R41-4 successfully loaded.
+[21:25:34]   Loaded.
+[21:25:34]  Loading plugin: pawncmd
+[21:25:34] [Pawn.CMD] plugin v3.3.3 by urShadow loaded
+[21:25:34]   Loaded.
+[21:25:34]  Loading plugin: Whirlpool
+[21:25:34]  
+[21:25:34]  ==================
+[21:25:34]  
+[21:25:34]   Whirlpool loaded
+[21:25:34]  
+[21:25:34]  ==================
+[21:25:34]  
+[21:25:34]   Loaded.
+[21:25:34]  Loading plugin: pawnraknet
+[21:25:34] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.4.1 | 2016 - 2020
+    |--------------------------------
+    | Author and maintainer: urShadow
+
+
+    | Compiled: Jun 18 2020 at 14:19:11
+    |--------------------------------------------------------------
+    | Forum thread: https://forum.sa-mp.com/showthread.php?t=640306
+    |--------------------------------------------------------------
+    | Repository: https://github.com/urShadow/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/urShadow/Pawn.RakNet/wiki
+
+[21:25:34]   Loaded.
+[21:25:34]  Loading plugin: cec
+[21:25:34]     < cec 1.0 | Copyright 2020 > 
+[21:25:34]      Author: Ak-kawit "leaks666" Tahae
+[21:25:34]    Repository: https://github.com/aktah/cec
+[21:25:34]  
+[21:25:34]       --------------------------------
+[21:25:34]   Loaded.
+[21:25:35]  Loaded 7 plugins.
+
+[21:25:35] 
+[21:25:35] Filterscripts
+[21:25:35] ---------------
+[21:25:35]   Loading filterscript 'android-check.amx'...
+[21:25:35] AMX (42241344) loaded
+[21:25:35] Android check has been successfully loaded.
+[21:25:35]   Loaded 1 filterscripts.
+
+[21:25:35] AMX (42084008) loaded
+[21:25:35] MySQL connection is successful.
+[21:25:35] Gamemode-Clean BY AlexDev
+[21:25:35] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:52:44] 
+[21:52:44] Server Plugins
+[21:52:44] --------------
+[21:52:44]  Loading plugin: sampvoice
+[21:52:44]   Failed.
+[21:52:44]  Loading plugin: crashdetect
+[21:52:44]   CrashDetect plugin 4.20
+[21:52:44]   Loaded.
+[21:52:44]  Loading plugin: streamer
+[21:52:44] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:52:44]   Loaded.
+[21:52:44]  Loading plugin: mysql
+[21:52:44]  >> plugin.mysql: R41-4 successfully loaded.
+[21:52:44]   Loaded.
+[21:52:44]  Loading plugin: sscanf
+[21:52:44] 
+
+[21:52:44]  ===============================
+
+[21:52:44]       sscanf plugin loaded.     
+
+[21:52:44]          Version:  2.8.3        
+
+[21:52:44]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:52:44]  ===============================
+
+[21:52:44]   Loaded.
+[21:52:44]  Loading plugin: pawncmd
+[21:52:44] [Pawn.CMD] plugin v3.3.3 by urShadow loaded
+[21:52:44]   Loaded.
+[21:52:44]  Loading plugin: pawnraknet
+[21:52:44] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.4.1 | 2016 - 2020
+    |--------------------------------
+    | Author and maintainer: urShadow
+
+
+    | Compiled: Jun 18 2020 at 14:19:11
+    |--------------------------------------------------------------
+    | Forum thread: https://forum.sa-mp.com/showthread.php?t=640306
+    |--------------------------------------------------------------
+    | Repository: https://github.com/urShadow/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/urShadow/Pawn.RakNet/wiki
+
+[21:52:44]   Loaded.
+[21:52:44]  Loading plugin: Whirlpool
+[21:52:44]  
+[21:52:44]  ==================
+[21:52:44]  
+[21:52:44]   Whirlpool loaded
+[21:52:44]  
+[21:52:44]  ==================
+[21:52:44]  
+[21:52:44]   Loaded.
+[21:52:44]  Loading plugin: cec
+[21:52:44]     < cec 1.0 | Copyright 2020 > 
+[21:52:44]      Author: Ak-kawit "leaks666" Tahae
+[21:52:44]    Repository: https://github.com/aktah/cec
+[21:52:44]  
+[21:52:44]       --------------------------------
+[21:52:44]   Loaded.
+[21:52:44]  Loading plugin: FCNPC
+[21:52:44] 
+[21:52:44] -------------------------------------------------
+[21:52:44]      FCNPC - Fully Controllable NPC v2.0.3
+[21:52:44]             Windows SA-MP 0.3.7 R2
+[21:52:44]            Apr  2 2021 at 23:15:56
+[21:52:44] 
+[21:52:44]   Author:       OrMisicL (2013 - 2015)
+[21:52:44]   Continued by: ziggi    (2016 - present)
+[21:52:44] 
+[21:52:44]   See full credits in the README.md file
+[21:52:44] -------------------------------------------------
+[21:52:44] 
+[21:52:44] Loading...
+[21:52:44] 
+[21:52:44] -------------------------------------------------
+[21:52:44]    ColAndreasv1.4.0
+[21:52:44] 
+[21:52:44]    Created By:
+[21:52:44]      [uL]Chris42O
+[21:52:44]      [uL]Slice
+[21:52:44]      [uL]Pottus
+[21:52:44] -------------------------------------------------
+[21:52:44] 
+[21:52:44] Loading...
+[21:52:44] ColAndreas v1.4.0 Loaded.
+[21:52:44]   Loaded.
+[21:52:44]  Loaded 9 plugins.
+
+[21:52:44] 
+[21:52:44] Filterscripts
+[21:52:44] ---------------
+[21:52:44]   Loading filterscript 'android-check.amx'...
+[21:52:44] AMX (42700096) loaded
+[21:52:44] No collision data found.
+[21:52:44] Android check has been successfully loaded.
+[21:52:44]   Loaded 1 filterscripts.
+
+[21:52:45] AMX (42542760) loaded
+[21:52:45] MySQL connection is successful.
+[21:52:45] Gamemode-Clean BY AlexDev
+[21:52:45] Number of vehicle models: 0
